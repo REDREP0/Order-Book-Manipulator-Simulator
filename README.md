@@ -4,7 +4,7 @@ A high-performance **order book simulation** tool designed for **educational, ac
 
 > ❗️ All use cases are reviewed manually. Access to the full source code is **not public** to prevent misuse. Contact via **Telegram** for inquiries and approval.
 
-📩 **Contact:** [@RedRepo](https://t.me/@RedRepo)
+📩 **Contact:** [@RedRepo](https://t.me/RedRepo)
 
 ---
 
